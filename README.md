@@ -8,4 +8,7 @@ The pins connected are ( Not based on BCM format)
 3. Input of servo --> Pin 3 of rpi
 
 You may have to adjust your servo angle based on the attachements you have made
+
+
+
 Feel free to explore
