@@ -12,3 +12,5 @@ You may have to adjust your servo angle based on the attachements you have made
 
 
 Feel free to explore
+
+Also added a optical fingerprint sensor code which can be used to trigger the servo on demand.
